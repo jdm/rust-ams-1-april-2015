@@ -10,7 +10,8 @@ __Want to see an idea/issue/project listed here? Feel free to open a PR!__
 
 ## [Servo](https://github.com/servo/servo)
 
-* Nothing here yet
+* [Issues tagged as easy for beginners](https://github.com/servo/servo/labels/E-easy)
+* [Quick overview of Servo](http://www.joshmatthews.net/fosdem2015/)
 
 ## [Rustc](https://github.com/rust-lang/rust)
 
